@@ -1,4 +1,4 @@
-package co.neweden.speedy;
+package harryharry6.speedy;
 
 
 class Factoid {

@@ -1,4 +1,4 @@
-package co.neweden.speedy;
+package harryharry6.speedy;
 
 import java.sql.DriverManager;
 import java.sql.SQLException;
